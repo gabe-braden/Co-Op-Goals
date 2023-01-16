@@ -15,6 +15,8 @@
 
 4. Deploy at least one fully-fledged feature by the end of the term. 
 
+5. Adopt a test case driven software development mindset.
+	- Write test cases for every feature. 
 
 ## Non-Technical Goals 
 1. Give professional presentations to the team describing new features that I developed. 
