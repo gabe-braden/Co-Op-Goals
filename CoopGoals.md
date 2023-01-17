@@ -1,7 +1,8 @@
 # Co-op Goal 2023 Winter Term 
 
 ## Technical Goals 
-1. Become more proficient in
+1. Become more proficient in...
+
         - Docker 
         - Kubernetes 
         - AWS 
