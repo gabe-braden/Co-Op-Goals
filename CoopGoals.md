@@ -2,12 +2,12 @@
 
 ## Technical Goals 
 1. Become more proficient in... 
-        - Docker 
-        - Kubernetes 
-        - AWS 
-	- Spring/Spring Boot
-	- CI/CD tools
- 	- C?  
+        - Docker <br>
+        - Kubernetes <br>
+        - AWS <br>
+	- Spring/Spring Boot <br>
+	- CI/CD tools <br>
+ 	- C?  <br>
 	
 2. Write clean, well-structured Java code that adheres to relevant industry standards. 
 
