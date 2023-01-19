@@ -18,6 +18,8 @@
 5. Adopt a test case driven software development mindset.
 	- Write test cases for every feature. 
 
+6. Learn more about programming in C
+
 ## Non-Technical Goals 
 1. Give professional presentations to the team describing new features that I developed. 
 
