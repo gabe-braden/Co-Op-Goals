@@ -4,10 +4,7 @@
 1. Become more proficient in...
 - Docker 
 - Kubernetes 
-- AWS 
 - Spring/Spring Boot
-- CI/CD tools 
-- C?  
 	
 2. Write clean, well-structured Java code that adheres to relevant industry standards. 
 
